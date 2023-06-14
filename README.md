@@ -1,10 +1,6 @@
 ### Greetings!
 
-I am a recent graduate from the University of Michigan with a B.S. in Neuroscience.
-Currently, I am working towards a career in data science and bioinformatics.
-Since the summer of '22, I have been self-learning the fundamentals of R & Python.
-Any advice, recommendations, or mentoring is welcomed!
-I can be reached via email (alanwk@umich.edu) at any time.
+I am an incoming Bioinformatics masters student with a bachelors in Neuroscience. I am currently working on building my foundations in Python, R, and SQL.
 
 <!--
 **alanwk/alanwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
