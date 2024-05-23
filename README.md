@@ -1,6 +1,6 @@
 ### Greetings!
 
-I am a Bioinformatics master's student with a bachelor's in Neuroscience. I am currently studying data analysis with neural data and genomic analysis. I also volunteer in a cell segmentation lab where I help improve the convolutional neural network used for segmentation.
+I am currently a Bioinformatics master's student with a bachelor's in Neuroscience. My experience includes work on hyperparameter optimization for a cell segmentation CNN and development of a multi-model neural network used to segment the optic nerve in CT scans. I am pursuing a career in medical computer vision with hopes of applying machine learning methods to the healthcare environment.
 
 <!--
 **alanwk/alanwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
