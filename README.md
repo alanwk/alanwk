@@ -1,6 +1,6 @@
 ### Greetings!
 
-I am currently a Bioinformatics master's student with a bachelor's in Neuroscience. My experience includes work on hyperparameter optimization for a cell segmentation CNN and development of a multi-model neural network used to segment the optic nerve in CT scans. I am pursuing a career in medical computer vision with hopes of applying machine learning methods to the healthcare environment.
+I am a precandidate for the DCMB PhD program at the University of Michigan. My current focus involves applying machine learning methods to medical imaging to assist healthcare professionals with traumatic brain injury events. 
 
 <!--
 **alanwk/alanwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
